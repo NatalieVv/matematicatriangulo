@@ -1,0 +1,2 @@
+# matematicatriangulo
+Triângulo de Sierpinski
