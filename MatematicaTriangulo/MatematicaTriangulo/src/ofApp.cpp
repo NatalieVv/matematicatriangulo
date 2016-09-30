@@ -16,7 +16,7 @@ void ofApp::update() {
 
 //--------------------------------------------------------------
 void ofApp::draw() {
-	ofSetColor(ofColor::cadetBlue);
+	ofSetColor(ofColor::blueViolet);
 	
 	Vector2D points[3] = { Vector2D(400, 0), Vector2D(0,600), Vector2D(800,600) };
 
